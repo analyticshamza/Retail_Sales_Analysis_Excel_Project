@@ -29,7 +29,7 @@ To identify sales trends and provide insights through visual cues and function-b
 - **Monthly Trends**
 
 - **Region Summary**
-  ![Image](https://github.com/user-attachments/assets/3d92ab96-44dd-4ed8-9dd3-eae86ee2c090)
+  **![Image](https://github.com/user-attachments/assets/3d92ab96-44dd-4ed8-9dd3-eae86ee2c090)**
   ![Image](https://github.com/user-attachments/assets/696fa3bb-a8b2-43f3-a8a7-0255191a6ded)
   ![Image](https://github.com/user-attachments/assets/cc6f8a1f-7626-4222-8c1e-d4c8a42b1b40)
 ## 🛠 Tools
