@@ -29,4 +29,6 @@ To identify sales trends and provide insights through visual cues and function-b
 - Excel Functions & Formulas
 - Conditional Formatting Rules
 
-## 📸 Visual Preview
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
